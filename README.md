@@ -15,6 +15,7 @@ Malahit-DSP-activation
     0x13, 0x51, 0x39, 0x30,
     0x39, 0x35, 0x37, 0x38
     
+    2.ZIP和4.ZIP是STM32的两个固件
     固件2.ZIP 随便输入一个密码可以注册
     固件4.ZIP 密码就是序列号，去掉最后8个0。
     
