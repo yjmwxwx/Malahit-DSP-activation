@@ -20,3 +20,4 @@ Malahit-DSP-activation
     固件4.ZIP 密码就是序列号，去掉最后8个0。
     
     
+    1.10B.zip 是1.10b版本去掉验证的固件
