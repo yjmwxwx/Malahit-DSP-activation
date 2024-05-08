@@ -1,0 +1,19 @@
+@	.thumb
+	.syntax unified
+	.section .text
+	@de46
+	str r0, [r3]
+	str r2, [r3]
+	@de86
+	str r0, [r3, # 0x04]
+	str r2, [r3, # 0x04]
+	@dec4
+	str r0, [r4, # 0x08]
+	str r3, [r4, # 0x08]
+	@def8
+	str r0, [r4, # 0x410]
+	str r3, [r4, # 0x410]
+	@dfb0
+	movs r4, # 0x58
+	movs r4, # 0xfa
+	

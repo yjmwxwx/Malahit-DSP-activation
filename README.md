@@ -21,3 +21,4 @@ Malahit-DSP-activation
     
     
     1.10B.zip 是1.10b版本去掉验证的固件
+     1.10d.zip 是1.10D版本去掉验证的固件	
